@@ -20,8 +20,8 @@ This is a simple UNIX domain socket echo server implemented in Go. The server li
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/senowijayanto/socktest.git
+   cd socktest
    ```
 
 2. Build the Go server:
